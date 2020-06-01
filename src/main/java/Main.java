@@ -27,7 +27,4 @@ public class Main {
     }
 
 
-    private static void getAllTodo(){
-
-    }
 }
